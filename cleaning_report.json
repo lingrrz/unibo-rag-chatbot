@@ -1,0 +1,2638 @@
+{
+  "stats": {
+    "input": 1455,
+    "removed_junk": 4,
+    "removed_too_short": 570,
+    "removed_duplicate": 66,
+    "kept": 815,
+    "removal_log_count": 640
+  },
+  "removed": [
+    {
+      "file": "corsi_unibo_it_2cycle_AerospaceEngineering_notice-board.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_AerospaceEngineering_notice-board_call-for-applications-for-maeci-internship.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_artificial-intelligence_notice-board.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_artificial-intelligence_notice-board_call-for-applications-for-maeci-internship-deadline-4-may.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_AutomationEngineering_notice-board.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_AutomationEngineering_notice-board_call-for-applications-for-maeci-internship-deadline-4-may.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_ComputerScienceEngineering_elective-courses.md",
+      "reason": "junk:用户帐户"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_ComputerScienceEngineering_notice-board.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_ComputerScienceEngineering_notice-board_call-for-applications-for-maeci-internship.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_DigitalHumanitiesKnowledge_internship.md",
+      "reason": "junk:用户帐户"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_DigitalHumanitiesKnowledge_notice-board.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_gioca_degree-programme-tutor.md",
+      "reason": "junk:用户帐户"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_gioca_notice-board.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_legal-studies_notice-board.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_PhysicsEarthOceanAtmosphere_faculty.md",
+      "reason": "junk:用户帐户"
+    },
+    {
+      "file": "corsi_unibo_it_2cycle_PhysicsEarthOceanAtmosphere_notice-board.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_en_events.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_en_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_en_news_events-newsletter_events-newsletter.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_en_news_notice-board.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_en_news_unibomagazine.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_a_galassi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_a_melis_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_a_puglisi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_a_ricci_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_a_ricci_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_a_santangelo_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_a_santangelo_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_a_zucchelli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_a_zucchelli_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alberto_arcuri3_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alberto_borghetti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alberto_musso_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alberto_musso_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alberto_pizzoferrato_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alberto_pizzoferrato_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alberto_triola2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_aldo_gangemi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_aldo_gangemi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alessandra_spangaro_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alessandra_spangaro_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alessandra_zanobetti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alessandra_zanobetti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alessandro_ceruti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alessandro_ceruti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alessandro_macchelli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alessio_caporali_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alina_sirbu_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alina_sirbu_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alina_sirbu_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alina_sirbu_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alina_sirbu_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alina_sirbu_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alina_sirbu_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alvise_schiavon_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_alvise_schiavon_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_acquaviva_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_acquaviva_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_asperti_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_asperti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_asperti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_asperti_news_7afcce2b.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_asperti_news_eb1f7c8f.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_asperti_news_f1030cc7.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_asperti_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_asperti_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_asperti_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_asperti_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_depascale_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_depascale_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_guizzardi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_lodi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_mentrelli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_nuzzolese2_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_nuzzolese2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_nuzzolese2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_nuzzolese2_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_nuzzolese2_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_nuzzolese2_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_nuzzolese2_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_omicini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_roli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_roli_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_serrani_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_tilli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_andrea_tilli_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_angela_carpi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_angela_carpi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_anna_dironco_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_anna_masutti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_anna_masutti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_anna_trazzi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_annafelicia_zuffran2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_annalisa_franco_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_annalisa_verza_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_annamaria_celli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_antonella_carbonaro_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_antonella_carbonaro_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_antonio_bacciaglia2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_attila_tanzi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_attila_tanzi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_c_buratti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_c_valentini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_c_valentini_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_carlo_tovo_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_caterina_drigo_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_caterina_drigo_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_catia_prandi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_chiara_grasselli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_chiara_orsingher_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_chiara_tartarini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_chiara_tartarini_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_claudio_giachetti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_claudio_melchiorri_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_claudio_sartori_collaborations.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_claudio_sartori_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_claudio_sartori_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_claudio_sartori_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_claudio_sartori_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_claudio_sartori_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_claudio_sartori_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_claudio_sartori_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_claudio_sartori_useful-contents_63a61f73.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_corrado_caruso_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_corrado_caruso_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_corrado_roversi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_cristina_boari_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_cristina_boari_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_d_fabbri_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_daniele_demartini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_daniele_donati_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_daniele_donati_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_daniele_ferdani2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_danilo_pianini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_dario_modenini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_evangelista5_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_evangelista5_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_evangelista5_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_evangelista5_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_evangelista5_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_evangelista5_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_maltoni_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_rossi_collaborations.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_rossi_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_rossi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_rossi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_rossi_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_rossi_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_rossi_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_davide_rossi_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_diletta_tega_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_diletta_tega_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_e_deangelis_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_e_paolini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_bertelli2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_ferioli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_ferioli_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_loli_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_loli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_loli_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_loli_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_loli_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_loli_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_loli_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_pezzato2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elena_pezzato2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elisa_baroncini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_elisa_baroncini_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_emanuela_fronza_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_emanuela_fronza_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_emanuele_deangelis4_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_enrico_almureden_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_enrico_almureden_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_enrico_gallinucci_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_enrico_troiani_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_enzomaria_merlino2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_enzomaria_merlino2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ester_villa2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ester_villa2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabiana_mattioli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabiana_mattioli_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabio_tamburini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabio_vitali_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabio_vitali_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabio_vitali_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabio_vitali_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabio_vitali_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabio_vitali_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabio_vitali_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabiola_naldi2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabiola_naldi2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabrizio_giulietti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabrizio_giulietti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_fabrizio_ponti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_casolari_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_casolari_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_chesani_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_chesani_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_chesani_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_chesani_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_chesani_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_chesani_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_chesani_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_ferri5_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_galli7_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_galli7_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_federico_marinacci2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_france_chiaravallot4_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_lagioia_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_lagioia_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_lagioia_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_lagioia_news_058b920a.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_lagioia_news_401d60bd.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_lagioia_news_f1c1a2ae.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_lagioia_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_lagioia_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_lagioia_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_lagioia_useful-contents_d99d7c2b.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_starita2_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_starita2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_starita2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_starita2_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_starita2_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_starita2_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_starita2_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesca_tomasi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesco_barchi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesco_biagi4_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesco_biagi4_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_francesco_moro4_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_franco_callegati_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_furio_camillo_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_furio_camillo_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_g_dangelo_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_g_dipellegrino_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_g_dipellegrino_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_g_dipellegrino_news_edaa5ccb.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_g_guidetti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_g_pisano_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_gabriele_bellani2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giacomo_difederico_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giacomo_difederico_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_gianluca_aguzzi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_gianluca_moro_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_gianluca_moro_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_gianluca_moro_news_a67d284e.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_gianluca_palli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_gianmaria_farnelli2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_gianmaria_farnelli2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_ciatto_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_colavizza_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_sartor_collaborations.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_sartor_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_sartor_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_sartor_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_sartor_news_0c718773.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_sartor_news_867607c8.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_sartor_news_a20d2ad0.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_sartor_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_sartor_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_sartor_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giovanni_sartor_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giulia_bertolani2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giulia_lasagni6_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giulia_lasagni6_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giulio_iovine2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giulio_iovine2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_casale5_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_contissa_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_contissa_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_lisanti_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_lisanti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_lisanti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_lisanti_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_lisanti_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_lisanti_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_lisanti_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_notarstefano_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_notarstefano_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_notarstefano_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_notarstefano_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_notarstefano_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_giuseppe_notarstefano_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_guglielmo_minelli2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_guido_fioretti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_guido_fioretti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_guykarim_borlee2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ilaria_bartolini_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ilaria_bartolini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ilaria_bartolini_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ilaria_bartolini_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ilaria_bartolini_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ilaria_bartolini_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ilaria_bartolini_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ivan_heibi2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ivano_notarnicola_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ivano_notarnicola_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ivano_notarnicola_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ivano_notarnicola_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ivano_notarnicola_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ivano_notarnicola_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_john_hauser_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_johnalan_pascoe_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_jonathan_baker_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_leandro_desouzarosa_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_leticia_canalvieira_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_leticia_canalvieira_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_lorenzo_delfederico_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_lorenzo_maniscalco_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_lorenzo_marconi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_lorenzo_rinieri_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_loris_dicerbo2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_benini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_bersaglia2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_dalpozzolo_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_dalpozzolo_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_sciullo_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_sciullo_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_sciullo_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_sciullo_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_sciullo_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_sciullo_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_sciullo_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_trapin_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luca_zan_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_lucia_romani_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luciano_bononi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luciano_bononi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luciano_bononi_news_902aa86c.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luciano_bononi_news_e65c875e.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luciano_bononi_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luciano_bononi_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luciano_bononi_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luciaserena_rossi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luciaserena_rossi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ludovica_chiussi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ludovica_chiussi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ludovica_michelin2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luigi_distefano_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_luigi_distefano_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_m_francia_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_m_martino_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_m_martino_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_m_zannoni_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_boschetti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_difelice3_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_difelice3_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_difelice3_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_difelice3_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_difelice3_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_difelice3_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_difelice3_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_difelice3_useful-contents_ef86334a.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_difelice3_useful-contents_g1024319.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_sagliano_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_sagliano_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_tartagni_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marco_tartagni_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_margherita_pittalis_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_margherita_pittalis_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_maria_lusiani_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mariachiara_colucci_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mariachiara_colucci_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mariagiulia_canella_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mariagiulia_canella_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mariapi_falaschetti2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marilena_daquino2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marina_timoteo_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_marina_timoteo_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mario_bravetti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_matilde_ratti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_matteo_ferrara_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_matteo_golfarelli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_matteo_turrin2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_matteo_turrin2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mattia_ricco_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_maurizio_brizzi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_maurizio_gabbrielli_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_maurizio_gabbrielli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_maurizio_gabbrielli_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_maurizio_gabbrielli_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_maurizio_gabbrielli_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_maurizio_gabbrielli_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_maurizio_gabbrielli_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mauro_mangia_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michael_lodi_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michael_lodi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michael_lodi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michael_lodi_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michael_lodi_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michael_lodi_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michael_lodi_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michela_milano_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michela_milano_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michela_milano_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michela_milano_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michela_milano_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michela_milano_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michela_milano_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michelangelo_bin_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_caianiello_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_caianiello_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_colajanni_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_colajanni_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_colajanni_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_colajanni_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_colajanni_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_colajanni_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_conconi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_corazza2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_lombardi2_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_lombardi2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_lombardi2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_lombardi2_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_lombardi2_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_lombardi2_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_lombardi2_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_monaci_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_michele_monaci_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_micheleangelo_lupoi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mirco_musolesi_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mirco_musolesi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mirco_musolesi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mirco_musolesi_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mirco_musolesi_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mirco_musolesi_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_mirko_viroli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_monica_palmirani_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_monica_palmirani_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_moreno_marzolla_collaborations.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_moreno_marzolla_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_moreno_marzolla_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_moreno_marzolla_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_moreno_marzolla_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_moreno_marzolla_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_moreno_marzolla_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_moreno_marzolla_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_nadia_antonello2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_nicolo_cocchi2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ozalp_babaoglu_collaborations.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ozalp_babaoglu_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ozalp_babaoglu_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ozalp_babaoglu_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ozalp_babaoglu_news_21866884.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ozalp_babaoglu_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ozalp_babaoglu_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ozalp_babaoglu_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ozalp_babaoglu_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_p_ferri_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_p_torroni_collaborations.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_p_torroni_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_p_torroni_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_p_torroni_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_p_torroni_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_p_torroni_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_p_torroni_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_p_torroni_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_paola_italia_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_paola_italia_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_paola_manes2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_paola_manes2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_paolo_bonora_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_paolo_castaldi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_paolo_castaldi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_paolo_tortora_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_pg_degliesposti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_pg_degliesposti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_philipp_schlatter_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_pietro_manzini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_pietro_manzini_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_r_mandrioli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_raffaele_corrado_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ramis_orlu2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_rebecca_orelli_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_reynder_alderliesten_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_riccardo_accorsi2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_riccardo_fini_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_riccardo_fini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_riccardo_fini_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_riccardo_fini_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_riccardo_fini_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_riccardo_fini_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_riccardo_fini_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_riccardo_ghetti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_riccardo_ghetti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_riccardo_lasagni_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberta_calegari_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberta_calegari_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberta_calegari_news_bc7a1629.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberto_amadini_collaborations.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberto_amadini_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberto_amadini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberto_amadini_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberto_amadini_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberto_amadini_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberto_amadini_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberto_amadini_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberto_diversi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberto_girau_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_roberto_verdone_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_rocco_vertechy_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_rocco_vertechy_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_rosa_grimaldi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_rosa_grimaldi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_s_ferretti_collaborations.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_s_ferretti_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_s_ferretti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_s_ferretti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_s_ferretti_news_bfa55693.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_s_ferretti_news_da110ee8.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_s_ferretti_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_s_ferretti_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_s_ferretti_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_s_ferretti_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_salvatore_sapienza_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_salvatore_sapienza_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_samuele_burattini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_samuele_salti_collaborations.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_samuele_salti_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_samuele_salti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_samuele_salti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_samuele_salti_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_samuele_salti_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_samuele_salti_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_samuele_salti_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_sara_bagassi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_sarah_benvenuti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_saverio_giallorenzo_collaborations.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_saverio_giallorenzo_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_saverio_giallorenzo_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_saverio_giallorenzo_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_saverio_giallorenzo_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_saverio_giallorenzo_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_saverio_giallorenzo_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_saverio_giallorenzo_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_serena_disisto_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_sergio_gilotta_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_silvia_mirri_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_silvia_zullo_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_silvia_zullo_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_silvio_peroni_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_silvio_peroni_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_simona_cavaliere3_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_simona_cavaliere3_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_simone_ferriani_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_simone_ferriani_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_sofia_pescarin_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_cavazza_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_cavazza_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_lipira_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_lodi_collaborations.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_lodi_cv-en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_lodi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_lodi_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_lodi_publications.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_lodi_research.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_lodi_teachings.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_lodi_useful-contents.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_stefano_rizzi_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_susanna_mancini_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_susanna_mancini_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_tania_abbiate2_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_tania_abbiate2_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_timothysean_oconnell_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_ugo_dallago_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_valentina_cacchiani_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_valentina_montalto3_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_valentina_presutti_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_valentina_presutti_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_valentina_presutti_news_644d9e55.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_vittorio_maniezzo_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_vittorio_maniezzo_news.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_walter_cerroni_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_sitoweb_zeynep_kiziltan_en.md",
+      "reason": "too_short"
+    },
+    {
+      "file": "www_unibo_it_en_campus-cesena_campus-services_eating-at-student-prices-cesena.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_campus-forli_campus-services_special-price-arrangement-forli.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_life-at-university-and-in-the-city_where-to-eat-canteens-and-catering-services.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_campus-forli_campus-services_special-price-arrangement-forli.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_incoming-exchange-students_incoming-exchange-students-unibo.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_international_exchange-opportunities-at-Unibo.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_internship-abroad.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_international_internship-abroad_internship-abroad.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_internship-abroad_internship-abroad.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_international_internship-abroad_internship-abroad.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_Studying-abroad_General-information-on-Erasmus.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_international_Studying-abroad_General-information-on-Erasmus_General-information-on-Erasmus.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_Studying-abroad_General-information-on-Erasmus_Participation-methods.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_international_Studying-abroad_General-information-on-Erasmus_Participation-methods.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_Studying-abroad_General-information-on-Overseas.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_international_Studying-abroad_General-information-on-Overseas.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_Studying-abroad.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_international_Studying-abroad_Studying-abroad.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_international-experiences_Studying-abroad_Studying-abroad.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_international_Studying-abroad_Studying-abroad.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_Studying-abroad_Studying-abroad.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_international_Studying-abroad_Studying-abroad.md"
+    },
+    {
+      "file": "www_unibo_it_en_research_nrrp-opportunities-expectations-and-results_nrrp-opportunities-expectations-and-results.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_research_nrrp-opportunities-expectations-and-results.md"
+    },
+    {
+      "file": "www_unibo_it_en_research_open-science_open-science.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_research_open-science.md"
+    },
+    {
+      "file": "www_unibo_it_en_research_research-areas-and-projects_research-areas-and-projects.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_research_research-areas-and-projects.md"
+    },
+    {
+      "file": "www_unibo_it_en_research_research-at-unibo_reseach-at-unibo.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_research_research-at-unibo.md"
+    },
+    {
+      "file": "www_unibo_it_en_research_research-evaluation_research-evaluation.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_research_research-evaluation.md"
+    },
+    {
+      "file": "www_unibo_it_en_research_research-for-society-and-businesses_research-for-society-and-businesses.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_research_research-for-society-and-businesses.md"
+    },
+    {
+      "file": "www_unibo_it_en_research_research-in-numbers-1_research-in-numbers.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_research_research-in-numbers-1.md"
+    },
+    {
+      "file": "www_unibo_it_en_research_research-organisation-and-infrastructure_research-organisation-and-infrastructure.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_research_research-organisation-and-infrastructure.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_life-at-university-and-in-the-city_certificates-and-requests-for-duplicates_certificates-and-requests-for-duplicates.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_services-and-opportunities_certificates-and-requests-for-duplicates_certificates-and-requests-for-duplicates.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_life-at-university-and-in-the-city_health-and-assistance_health-and-medical-assistance-in-bologna-cesena-forli-ravenna-e-rimini_health-and-medical-assistance-.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_services-and-opportunities_health-and-assistance_health-and-medical-assistance-in-bologna-cesena-forli-ravenna-e-rimini_health-and-medical-assistance-in-bologna-ces.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_life-at-university-and-in-the-city_health-and-assistance_insurance.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_services-and-opportunities_health-and-assistance_insurance.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_life-at-university-and-in-the-city_health-and-assistance_the-psychological-support-service-sap.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_services-and-opportunities_health-and-assistance_the-psychological-support-service-sap.md"
+    },
+    {
+      "file": "www_unibo_it_en_services-and-opportunities_internships-and-job-placement_internships_training-and-guidance-internships.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_towards-the-job-market_internships_internships.md"
+    },
+    {
+      "file": "www_unibo_it_en_university_organisation-and-campuses_university-services_online-services_online-services-for-students_guide-to-online-student-services_ams-tesi-online.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_services-and-opportunities_online-services_guide-to-online-student-services_ams-tesi-online.md"
+    },
+    {
+      "file": "www_unibo_it_en_services-and-opportunities_study-grants-and-subsidies_housing-and-residences_housing-and-residences.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_life-at-university-and-in-the-city_housing-and-residences_housing.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_study-grants-and-subsidies_scholarships-and-funding-opportunities.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_study-grants-and-subsidies.md"
+    },
+    {
+      "file": "www_unibo_it_en_services-and-opportunities_study-grants-and-subsidies_study-grants-and-subsidies.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_study-grants-and-subsidies.md"
+    },
+    {
+      "file": "www_unibo_it_en_services-and-opportunities_study-grants-and-subsidies_the-italian-tax-code.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_the-italian-tax-code.md"
+    },
+    {
+      "file": "www_unibo_it_en_services-and-opportunities_studying-and-beyond_conventions-with-cinemas.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_life-at-university-and-in-the-city_leisure-incentives.md"
+    },
+    {
+      "file": "www_unibo_it_en_services-and-opportunities_studying-and-beyond_transport-and-mobility_transport-and-mobility.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_life-at-university-and-in-the-city_transport-and-mobility_transport-and-mobility.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_course-unit-catalogue.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_course-units-transferable-skills-moocs_course-unit-catalogue.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_enrolment-fees-and-other-procedures.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_enrolment-fees-and-other-procedures.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_alias-career_alias-career-for-students-of-the-university-of-bologna.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_alias-career-for-students-of-the-university-of-bologna.md"
+    },
+    {
+      "file": "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_changing-study-programme-within-the-university-of-bologna_changing-study-programme-within-the-university-of-bologn.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_changing-degree-programme.md"
+    },
+    {
+      "file": "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_Enrolling-in-single-learning-activities_Enrolling-in-single-learning-activities.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_Enrolling-in-single-learning-activities.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_extension-of-study-period.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_extended-study-programme.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_extending-the-duration-of-studies-part-time-student-status.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_extended-study-programme.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_foreign-degree-recognition.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_foreign-degree-recognition.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_leaving-and-returning-to-university_leaving-and-returning-to-university.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_returning-to-and-interrupting-studies_returning-to-and-interrupting-studies.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_leaving-and-returning-to-university_loss-of-student-status.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_returning-to-and-interrupting-studies_loss-of-student-status.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_recognition-of-201cstudent-athlete201d-status.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_guide-to-choosing-your-programme_combining-your-studies-with-a-career-in-sport.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_transferring-to-the-university-of-bologna_transferring-to-the-university-of-bologna.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_transferring-to-the-university-of-bologna_transferring-to-the-university-of-bologna.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_tuition-fees-and-exemptions_fees-and-exemptions-amounts-and-deadlines1.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_tuition-fees-and-exemptions_fees-and-exemptions-amounts-deadlines.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_visa-and-rules-for-residence-in-italy_on-arrival-in-italy-residence-permit-permesso-di-soggiorno-for-stu.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_enrolment-fees-and-other-procedures_residence-permit_residence-permit.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_we-guide-you-in-your-choice_the-university-system_the-university-system.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_guide-to-choosing-your-programme_the-university-system.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_guide-to-choosing-your-programme_the-university-system_the-university-system.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_guide-to-choosing-your-programme_the-university-system.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_experience-abroad.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_incoming-outgoing-international-mobility.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_internship-abroad_erasmus-mobility-for-traineeship_erasmus-mobility-for-traineeship.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_international-experiences_internship-abroad_erasmus-mobility-for-traineeship_erasmus-mobility-for-traineeship.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_Studying-abroad_General-information-on-Erasmus_erasmus-office-directory_contacts-schools-erasmus-offices.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_international-experiences_incoming-exchange-students_contacts-for-exchange-students-at-unibo_international-mobility-offices-contacts.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_Studying-abroad_General-information-on-Erasmus_Programme-requirements-and-destinations.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_international-experiences_Studying-abroad_General-information-on-Erasmus_Programme-requirements-and-destinations.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_incoming-outgoing-international-mobility_Studying-abroad_overseas-office-directory.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_international-experiences_Studying-abroad_overseas-office-directory.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_life-at-university-and-in-the-city_life-at-university-and-in-the-city.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_life-at-university-and-in-the-city.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_life-at-university-and-in-the-city_libraries-digital-resources-and-study-rooms_libraries-digital-resources-and-study-rooms.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_life-at-university-and-in-the-city_libraries-digital-resources-and-study-rooms.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_life-at-university-and-in-the-city_student-associations-and-cooperatives_student-associations-and-cooperatives.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_life-at-university-and-in-the-city_student-associations-and-cooperatives.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_phd-professional-masters-specialisation-schools-and-other-programmes.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_phd_phd-programme.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_phd.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_phd_phd-programmes.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_phd.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_postgraduate-vocational-training-programmes_post-graduate-vocational-training-programmes.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_postgraduate-vocational-training-programmes.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_professional-master_professional-master-programmes.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_professional-master.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_specialisation-schools_specialisation-schools-2.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_specialisation-schools.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_summer-and-winter-schools_summer-and-winter-schools-at-the-university-of-bologna.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_phd-professional-masters-specialisation-schools-and-other-programmes_summer-and-winter-schools.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_towards-the-job-market_towards-the-job-market.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_towards-the-job-market.md"
+    },
+    {
+      "file": "www_unibo_it_en_study_towards-the-job-market_from-study-to-work-how-to-prepare.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_study_towards-the-job-market.md"
+    },
+    {
+      "file": "www_unibo_it_en_university_university-of-bologna-app_app-myalmaorienta.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_university_university-of-bologna-app_MyAlmaOrienta-App.md"
+    },
+    {
+      "file": "www_unibo_it_en_university_work-with-us_work-with-us.md",
+      "reason": "duplicate",
+      "kept_as": "www_unibo_it_en_university_work-with-us.md"
+    }
+  ]
+}

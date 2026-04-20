@@ -1,0 +1,942 @@
+[
+  {
+    "id": "std_001",
+    "category": "standard_faq",
+    "question": "What is the maximum number of students admitted to the Aerospace Engineering master's programme for the 2024-2025 academic year?",
+    "answer": "A maximum of 80 students are admitted to the programme.",
+    "source_file": [
+      "AerospaceEngineering_faq-frequently-asked-questions.md"
+    ]
+  },
+  {
+    "id": "std_002",
+    "category": "standard_faq",
+    "question": "Is it possible to apply for the Aerospace Engineering course before obtaining a Bachelor's degree?",
+    "answer": "Yes, candidates can apply before graduating, but they must obtain their bachelor's degree by the end of December 2024 for the 2024-2025 intake.",
+    "source_file": [
+      "AerospaceEngineering_faq-frequently-asked-questions.md"
+    ]
+  },
+  {
+    "id": "std_003",
+    "category": "standard_faq",
+    "question": "What happens if a student misses the first application deadline for the selection procedure?",
+    "answer": "Non-EU citizens abroad can only apply for the first deadline. EU and equivalent citizens can apply for the second or third procedures if places are still available.",
+    "source_file": [
+      "AerospaceEngineering_faq-frequently-asked-questions.md"
+    ]
+  },
+  {
+    "id": "std_004",
+    "category": "standard_faq",
+    "question": "Does the Aerospace Engineering programme require a specific English language level for admission?",
+    "answer": "Yes, a valid certificate of at least B2 level is mandatory for admission to the selection procedure.",
+    "source_file": [
+      "AerospaceEngineering_faq-frequently-asked-questions.md"
+    ]
+  },
+  {
+    "id": "std_005",
+    "category": "standard_faq",
+    "question": "Are candidates with a non-aerospace engineering degree required to take extra modules?",
+    "answer": "Yes, admitted students with a degree different from aerospace engineering must include the 12 ECTS 'Fundamentals of Aerospace Engineering' module in their study plan.",
+    "source_file": [
+      "AerospaceEngineering_faq-frequently-asked-questions.md"
+    ]
+  },
+  {
+    "id": "std_006",
+    "category": "standard_faq",
+    "question": "What are the eligible Bachelor's degree classes for admission to the Artificial Intelligence programme?",
+    "answer": "Eligible classes include L-8 (Information Engineering), L-30 (Physical sciences), L-31 (Computer science), L-35 (Mathematical sciences), and L-41 (Statistics).",
+    "source_file": [
+      "artificial-intelligence_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "std_007",
+    "category": "standard_faq",
+    "question": "Are candidates with a graduation grade of 110/110 required to meet a specific number of computer science credits?",
+    "answer": "No. Candidates with a graduation grade of 110/110 or foreign equivalent are deemed to have adequate preparation regardless of their computer science credits.",
+    "source_file": [
+      "artificial-intelligence_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "std_008",
+    "category": "standard_faq",
+    "question": "What is the threshold for the Academic Performance Indicator (API) below which an application is deemed inadequate?",
+    "answer": "Candidates whose API is lower than 25.50/30 are deemed to have inadequate academic preparation.",
+    "source_file": [
+      "artificial-intelligence_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "std_009",
+    "category": "standard_faq",
+    "question": "Is a private health insurance policy sufficient for a non-EU student's entire stay in Italy?",
+    "answer": "Yes, but private policies usually require the student to pay expenses upfront and request reimbursement later; alternatively, students can register with the Italian National Health Service (SSN).",
+    "source_file": [
+      "artificial-intelligence_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "std_010",
+    "category": "standard_faq",
+    "question": "What should a student do if they miss their first appointment for recording biometric data for a residence permit?",
+    "answer": "The student will receive an invitation to a new appointment through the immigration portal (portaleimmigrazione.it), by post, or by SMS. If no invitation arrives after a few weeks, they should contact the International Desk of their campus.",
+    "source_file": [
+      "frequently-asked-questions-about-residence-permits.md"
+    ]
+  },
+  {
+    "id": "std_011",
+    "category": "standard_faq",
+    "question": "How can a student update their address for the residence permit after moving?",
+    "answer": "They must communicate the new address to the competent central police station via PEC (Certified Email) and update their contact details on the Studenti Online portal.",
+    "source_file": [
+      "frequently-asked-questions-about-residence-permits.md"
+    ]
+  },
+  {
+    "id": "std_012",
+    "category": "standard_faq",
+    "question": "What is the procedure if a residence permit is lost or stolen?",
+    "answer": "The student must report the loss or theft to the Police or Carabinieri and request a duplicate at a qualified post office with a 'Sportello Amico'.",
+    "source_file": [
+      "frequently-asked-questions-about-residence-permits.md"
+    ]
+  },
+  {
+    "id": "std_013",
+    "category": "standard_faq",
+    "question": "Are students allowed to travel within the Schengen area while waiting for their first residence permit?",
+    "answer": "Yes, they can travel for up to three months as long as their entry visa is still valid and allows multiple entries.",
+    "source_file": [
+      "frequently-asked-questions-about-residence-permits.md"
+    ]
+  },
+  {
+    "id": "std_014",
+    "category": "standard_faq",
+    "question": "What are the specific credit requirements for candidates with a non-legal Bachelor's degree applying to Legal Studies?",
+    "answer": "Candidates with a non-legal Italian qualification must have obtained at least 30 CFU (University Credits) in legal subjects, which can include the final examination.",
+    "source_file": [
+      "legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "std_015",
+    "category": "standard_faq",
+    "question": "What does the 'sub condicione' enrolment mean for Legal Studies candidates?",
+    "answer": "It allows candidates to participate in the selection if they expect to obtain their Bachelor's degree by December 2026. If they fail to graduate by then, their enrolment is automatically cancelled.",
+    "source_file": [
+      "legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "std_016",
+    "category": "standard_faq",
+    "question": "How many total seats are available for the Legal Studies - LEGS programme for the 2026/2027 academic year?",
+    "answer": "There are 150 seats in total: 75 for Italian, EU, and equivalent citizens, and 75 for non-EU citizens residing abroad.",
+    "source_file": [
+      "legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "std_017",
+    "category": "standard_faq",
+    "question": "What are the two main phases of the selection process for the Legal Studies programme?",
+    "answer": "The process consists of: 1) Assessment of the curriculum and submitted documentation, and 2) An interview in English to evaluate the candidate's preparation.",
+    "source_file": [
+      "legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "std_018",
+    "category": "standard_faq",
+    "question": "What is the minimum score required in the first phase (curriculum assessment) to be admitted to the interview for LEGS?",
+    "answer": "Candidates must obtain a minimum score of 25 out of 40 available points in Phase 1 to be admitted to the Phase 2 interview.",
+    "source_file": [
+      "legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "std_019",
+    "category": "standard_faq",
+    "question": "Does the Legal Studies programme accept native English speakers without a proficiency certificate?",
+    "answer": "Yes, the English proficiency requirement is considered verified for native speakers, defined as citizens who can express themselves naturally in English due to family background or linguistic experience.",
+    "source_file": [
+      "legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "std_020",
+    "category": "standard_faq",
+    "question": "What is the total overall score required to be considered eligible for the Legal Studies merit ranking?",
+    "answer": "Candidates must achieve an overall score (sum of curriculum evaluation and interview) equal to or greater than 60/100.",
+    "source_file": [
+      "legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "std_021",
+    "category": "standard_faq",
+    "question": "What are the primary benefits of participating in the Erasmus+ Study mobility programme?",
+    "answer": "Participants can study at a partner university for 2 to 12 months, earn credits for exams and courses, receive a financial grant, and are exempted from paying tuition fees at the host university.",
+    "source_file": [
+      "Programme-requirements-and-destinations.md"
+    ]
+  },
+  {
+    "id": "std_022",
+    "category": "standard_faq",
+    "question": "Which non-EU countries are considered 'third countries associated to the programme' for Erasmus+ destinations?",
+    "answer": "The third countries associated to the programme include Iceland, Liechtenstein, Republic of North Macedonia, Norway, Serbia, and Turkey.",
+    "source_file": [
+      "Programme-requirements-and-destinations.md"
+    ]
+  },
+  {
+    "id": "std_023",
+    "category": "standard_faq",
+    "question": "Are students allowed to receive an Erasmus+ grant if they are already receiving another EU mobility grant?",
+    "answer": "No, students are not entitled to an Erasmus+ grant if they are already receiving an EU mobility grant to study abroad or grants from Unibo funds for mobility periods.",
+    "source_file": [
+      "Programme-requirements-and-destinations.md"
+    ]
+  },
+  {
+    "id": "std_024",
+    "category": "standard_faq",
+    "question": "What is the maximum total duration a student can spend on Erasmus+ mobility within a single study cycle?",
+    "answer": "The total period cannot exceed 12 months for each study cycle (three-year, graduate, or doctorate). For single-cycle degree programmes, the maximum is 24 months.",
+    "source_file": [
+      "Programme-requirements-and-destinations.md"
+    ]
+  },
+  {
+    "id": "std_025",
+    "category": "standard_faq",
+    "question": "Are Erasmus+ student grants available for mobilities to the United Kingdom and Switzerland?",
+    "answer": "Yes, although they are 'third countries not associated to the programme,' student grants are guaranteed and covered by European funds equivalent to those for EU Member States.",
+    "source_file": [
+      "Programme-requirements-and-destinations.md"
+    ]
+  },
+  {
+    "id": "std_026",
+    "category": "standard_faq",
+    "question": "What is the minimum fixed fee that all students must pay even if they are fully exempt from tuition fees?",
+    "answer": "The minimum fixed fee is €157.04, which covers the regional tax (€140.00), the tax stamp (€16.00), and the insurance premium (€1.04).",
+    "source_file": [
+      "fees-and-exemptions-amounts-deadlines.md"
+    ]
+  },
+  {
+    "id": "std_027",
+    "category": "standard_faq",
+    "question": "What is the ISEE threshold for first-year students to be eligible for full tuition fee exemption?",
+    "answer": "First-year students with an ISEE value of less than or equal to €27,000 are fully exempt and pay only the fixed fee of €157.04.",
+    "source_file": [
+      "fees-and-exemptions-amounts-deadlines.md"
+    ]
+  },
+  {
+    "id": "std_028",
+    "category": "standard_faq",
+    "question": "What is the deadline for submitting the ISEE certificate to ER.GO to avoid paying the maximum tuition fees?",
+    "answer": "The deadline is October 30, 2025, at 18:00. Late submissions are accepted until November 17, 2025, but incur a €100 late fee.",
+    "source_file": [
+      "fees-and-exemptions-amounts-deadlines.md"
+    ]
+  },
+  {
+    "id": "std_029",
+    "category": "standard_faq",
+    "question": "What are the penalty fees for paying the tuition instalments after the deadline?",
+    "answer": "A late fee of €30 is charged for payments up to 30 days late. For delays exceeding 30 days, the penalty increases to €150.",
+    "source_file": [
+      "fees-and-exemptions-amounts-deadlines.md"
+    ]
+  },
+  {
+    "id": "std_030",
+    "category": "standard_faq",
+    "question": "Does a student need to pay the enrolment fee if they plan to graduate by the last session of the 2024/25 academic year?",
+    "answer": "No, students who plan to graduate by the last session of the a.y. 2024/25 do not need to pay the enrolment fee for the new academic year (2025/26).",
+    "source_file": [
+      "fees-and-exemptions-amounts-deadlines.md"
+    ]
+  },
+  {
+    "id": "mt_001",
+    "category": "multi_topic",
+    "question": "What is the maximum score achievable in the Phase 1 assessment for Legal Studies, and what is the minimum graduation grade required to apply for Digital Humanities?",
+    "answer": "The maximum score for the Phase 1 assessment in the Legal Studies programme is 40 points. For the Digital Humanities programme, the minimum graduation grade required to submit an application is 90/110.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_legal-studies_how-to-enrol.md",
+      "corsi_unibo_it_2cycle_DigitalHumanitiesKnowledge_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mt_002",
+    "category": "multi_topic",
+    "question": "Does the GIOCA programme accept the Oxford Online Placement Test (OOPT) for English proficiency, and what specific requirements are waived for Artificial Intelligence applicants who graduated with a 110/110 score?",
+    "answer": "Yes, the GIOCA programme accepts the Oxford Online Placement Test (OOPT) to verify the B2 English proficiency requirement. For the Artificial Intelligence programme, applicants graduating with a score of 110/110 are exempted from the minimum Academic Performance Indicator (API) threshold and the requirement of having at least 30 ECTS in Computer Science/Engineering.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_gioca_how-to-enrol.md",
+      "corsi_unibo_it_2cycle_artificial-intelligence_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mh_001",
+    "category": "multi_hop",
+    "question": "I am a non-EU student living abroad applying for the Legal Studies programme. I scored 24 points in my curriculum assessment. Am I eligible to compete for one of the reserved seats for my category in the interview phase?",
+    "answer": "No, you are not eligible. Although there are 75 seats reserved for non-EU citizens residing abroad, candidates must achieve a minimum score of 25 points in the Phase 1 curriculum assessment to be admitted to the Phase 2 interview.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mh_002",
+    "category": "multi_hop",
+    "question": "An applicant holds a Bachelor's degree in Information Engineering (Class L-8) with a final grade of 110/110, but has 0 ECTS in IT or Computer Science. Does this applicant meet the curricular requirements for both the Artificial Intelligence and Digital Humanities programmes?",
+    "answer": "The applicant meets the requirements for Artificial Intelligence, because graduating with 110/110 in an eligible class (L-8) automatically waives the need for 30 ECTS in Computer Science. However, they do not meet the requirements for Digital Humanities, which strictly requires at least 18 ECTS in IT and/or Mathematics subjects regardless of the final graduation grade.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_artificial-intelligence_how-to-enrol.md",
+      "corsi_unibo_it_2cycle_DigitalHumanitiesKnowledge_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mt_003",
+    "category": "multi_topic",
+    "question": "Can I enrol in the Legal Studies programme if I haven't graduated yet, and what is the minimum English CEFR level required for the Digital Humanities programme?",
+    "answer": "Yes, you can enrol in the Legal Studies programme 'sub condicione' as long as you expect to obtain your Bachelor's degree by December. For the Digital Humanities programme, candidates must prove an English proficiency of at least the B2 level.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_legal-studies_how-to-enrol.md",
+      "corsi_unibo_it_2cycle_DigitalHumanitiesKnowledge_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mt_004",
+    "category": "multi_topic",
+    "question": "Are native English speakers required to provide an English language certificate for the GIOCA programme, and which Bachelor's degree classes are directly eligible for Artificial Intelligence?",
+    "answer": "No, native English speakers are completely exempt from providing an English language proficiency certificate for the GIOCA programme. For the Artificial Intelligence programme, the directly eligible Bachelor's degree classes include L-8, L-30, L-31, L-35, and L-41.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_gioca_how-to-enrol.md",
+      "corsi_unibo_it_2cycle_artificial-intelligence_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mh_003",
+    "category": "multi_hop",
+    "question": "A candidate applying for the Legal Studies programme scores 35 points in the Phase 1 curriculum assessment and 22 points in the Phase 2 interview. Will this candidate be included in the final merit ranking?",
+    "answer": "No, the candidate will not be included. Although they successfully passed Phase 1 by scoring above the 25-point minimum, their total overall score is only 57 points (35 + 22), which falls short of the minimum overall score of 60/100 required to pass the selection process.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mh_004",
+    "category": "multi_hop",
+    "question": "An applicant for the Artificial Intelligence programme has an Academic Performance Indicator (API) of 24.50/30 and a final graduation grade of 108/110. Will their academic preparation be considered adequate?",
+    "answer": "No, their academic preparation will be deemed inadequate. Their API of 24.50 is below the required threshold of 25.50/30, and their graduation grade of 108/110 is not high enough to waive this requirement, as only a maximum grade of 110/110 grants an automatic exemption.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_artificial-intelligence_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mt_005",
+    "category": "multi_topic",
+    "question": "Can I request an extension of the study period if I am enrolled in a second-cycle degree, and will I still need to pay the regional tax?",
+    "answer": "Yes, students enrolled in a second-cycle degree programme can request an extension of their study period. However, even with an extended study period, students are still required to pay the regional tax and stamp duty in full.",
+    "source_file": [
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_extension-of-study-period.md"
+    ]
+  },
+  {
+    "id": "mh_005",
+    "category": "multi_hop",
+    "question": "A student starting a 2-year Master's degree decides to apply for the extended study period option. What is the maximum number of years they can take to complete the programme under this status, and what happens if they fail to graduate within this extended timeframe?",
+    "answer": "For a 2-year second-cycle degree, the extended study period allows the student to complete the programme in a maximum of 3 or 4 years. If they fail to graduate within this chosen extended timeframe, they will be considered as 'fuori corso' (past the standard duration) for the subsequent academic years and subject to the standard fee regulations.",
+    "source_file": [
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_extension-of-study-period.md"
+    ]
+  },
+  {
+    "id": "mt_006",
+    "category": "multi_topic",
+    "question": "How many ECTS is the 'Internship' worth in the GIOCA programme, and is 'Cultural Economics' scheduled for the first or second year of study?",
+    "answer": "In the GIOCA programme, the 'Internship' is worth 12 ECTS. The course 'Cultural Economics' is scheduled as a compulsory subject in the first year of study.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_gioca_course-structure-diagram_piano_2025_6795_000_000_2025.md"
+    ]
+  },
+  {
+    "id": "mh_006",
+    "category": "multi_hop",
+    "question": "If a GIOCA student successfully completes the mandatory 'Internship' and passes their 'Final Examination', what is the total number of ECTS they will have acquired from these two specific activities?",
+    "answer": "The student will acquire a total of 27 ECTS. This is calculated by adding the 12 ECTS awarded for the mandatory Internship and the 15 ECTS awarded for completing the Final Examination.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_gioca_course-structure-diagram_piano_2025_6795_000_000_2025.md"
+    ]
+  },
+  {
+    "id": "mt_007",
+    "category": "multi_topic",
+    "question": "In the Artificial Intelligence programme, how many ECTS are allocated to the 'Machine Learning' course, and is the 'Final Examination' placed in the first or second year?",
+    "answer": "The 'Machine Learning' course is allocated 9 ECTS. The 'Final Examination' is scheduled to take place in the second year of the programme.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_artificial-intelligence_course-structure-diagram_piano_2025_6700_000_000_2025.md"
+    ]
+  },
+  {
+    "id": "mh_007",
+    "category": "multi_hop",
+    "question": "An Artificial Intelligence student decides to take 'Deep Learning' and completes their 'Final Examination'. According to the 2025 course structure diagram, what is the combined ECTS value of these two components?",
+    "answer": "The combined value is 30 ECTS. This total is derived from the 'Deep Learning' course, which is worth 6 ECTS, plus the 'Final Examination', which is worth 24 ECTS.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_artificial-intelligence_course-structure-diagram_piano_2025_6700_000_000_2025.md"
+    ]
+  },
+  {
+    "id": "mt_008",
+    "category": "multi_topic",
+    "question": "What is the degree programme associated with Stefano Lodi's course, and on which campus are the lessons held?",
+    "answer": "Stefano Lodi's course is part of the Second cycle degree programme (LM) in Statistical Sciences. The lessons are held on the Bologna campus.",
+    "source_file": [
+      "www_unibo_it_sitoweb_stefano_lodi_teachings.md"
+    ]
+  },
+  {
+    "id": "mh_008",
+    "category": "multi_hop",
+    "question": "If a student successfully completes the specific course taught by Stefano Lodi between September 15 and October 21, 2025, how many CFU will they earn?",
+    "answer": "The student will earn 10 CFU. This is because the course taught during that period is 'Systems and Algorithms for Data Science', which is worth 10 credits.",
+    "source_file": [
+      "www_unibo_it_sitoweb_stefano_lodi_teachings.md"
+    ]
+  },
+  {
+    "id": "mt_009",
+    "category": "multi_topic",
+    "question": "How many credits is Roberto Amadini's 'Programming' course worth, and where can students find the teaching resources?",
+    "answer": "The 'Programming' course is worth 12 CFU. Students can find the teaching resources on the Virtuale platform.",
+    "source_file": [
+      "www_unibo_it_sitoweb_roberto_amadini_teachings.md"
+    ]
+  },
+  {
+    "id": "mh_009",
+    "category": "multi_hop",
+    "question": "A student is enrolled in the First cycle degree programme in Information Science for Management. On what exact date does the teaching period for Roberto Amadini's course in this program end?",
+    "answer": "The teaching period ends on October 23, 2025. The course associated with this specific programme is 'Programming', and its lesson period runs until that date.",
+    "source_file": [
+      "www_unibo_it_sitoweb_roberto_amadini_teachings.md"
+    ]
+  },
+  {
+    "id": "mt_010",
+    "category": "multi_topic",
+    "question": "Which specific module does Michael Lodi teach, and what is the target degree programme for this course?",
+    "answer": "Michael Lodi teaches the 'Module of Languages and Algorithms for Artificial Intelligence I.C.'. The target degree programme is the Second cycle degree programme (LM) in Artificial Intelligence.",
+    "source_file": [
+      "www_unibo_it_sitoweb_michael_lodi_teachings.md"
+    ]
+  },
+  {
+    "id": "mh_010",
+    "category": "multi_hop",
+    "question": "If a student wants to attend the lectures for Michael Lodi's course in the Artificial Intelligence programme, what is the start date of the lesson period?",
+    "answer": "The lesson period starts on September 15, 2025. This applies to the 'Languages and Algorithms for Artificial Intelligence' module taught by him for this specific programme.",
+    "source_file": [
+      "www_unibo_it_sitoweb_michael_lodi_teachings.md"
+    ]
+  },
+  {
+    "id": "mt_011",
+    "category": "multi_topic",
+    "question": "When do the second semester exams begin for Aerospace Engineering, and what happens to classes on dates dedicated to Engineering graduation sessions?",
+    "answer": "The second semester exams begin on June 7, 2027. On dates dedicated to Engineering graduation sessions, classes and exams are suspended for the entire or half-day.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_AerospaceEngineering_teaching-calendar.md"
+    ]
+  },
+  {
+    "id": "mh_011",
+    "category": "multi_hop",
+    "question": "An Aerospace Engineering student finishes their first semester lessons on December 18th. What is the start date of the official exam session they will attend next, and which holiday break occurs in between?",
+    "answer": "The next exam session starts on January 7, 2027. The holiday break occurring in between is the Christmas holiday, which runs from December 23, 2026, to January 6, 2027.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_AerospaceEngineering_teaching-calendar.md"
+    ]
+  },
+  {
+    "id": "mt_012",
+    "category": "multi_topic",
+    "question": "What is the cost of the stamp duty for the credit recognition form, and what should be the first step for a student who wants to transfer to the University of Bologna?",
+    "answer": "The stamp duty for the credit recognition form is €16. The first step for a transferring student is to choose a degree programme and check its access requirements and methods.",
+    "source_file": [
+      "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_transferring-to-the-university-of-bologna_transferring-to-the-university-of-bologna.md"
+    ]
+  },
+  {
+    "id": "mh_012",
+    "category": "multi_hop",
+    "question": "If a transferring student decides they do not want certain previous exams to be validated, what specific form must they submit, and to which office?",
+    "answer": "They must submit the 'credit recognition form' (with a €16 stamp duty) to the Student Administration Office of their chosen programme.",
+    "source_file": [
+      "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_transferring-to-the-university-of-bologna_transferring-to-the-university-of-bologna.md"
+    ]
+  },
+  {
+    "id": "mt_013",
+    "category": "multi_topic",
+    "question": "Are native English speakers exempt from providing an English certificate for Legal Studies, and when do the Easter holidays start for Aerospace Engineering students?",
+    "answer": "Yes, native English speakers are exempt from providing an English proficiency certificate for the Legal Studies programme. For Aerospace Engineering students, the Easter holidays start on March 25, 2027.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_legal-studies_how-to-enrol.md",
+      "corsi_unibo_it_2cycle_AerospaceEngineering_teaching-calendar.md"
+    ]
+  },
+  {
+    "id": "mh_013",
+    "category": "multi_hop",
+    "question": "If I want to transfer to the First cycle degree programme in Information Science for Management taught by Roberto Amadini and wish to exclude a previous programming exam from validation, how much is the stamp duty for the required form?",
+    "answer": "The stamp duty for the required credit recognition form is €16. You must submit this form to the Student Administration Office of the chosen programme taught by Roberto Amadini.",
+    "source_file": [
+      "www_unibo_it_sitoweb_roberto_amadini_teachings.md",
+      "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_transferring-to-the-university-of-bologna_transferring-to-the-university-of-bologna.md"
+    ]
+  },
+  {
+    "id": "mt_014",
+    "category": "multi_topic",
+    "question": "How many credits is the Internship worth in the GIOCA programme, and what is the minimum bachelor's degree grade required to automatically waive the Computer Science ECTS requirement for Artificial Intelligence?",
+    "answer": "The Internship in the GIOCA programme is worth 12 ECTS. For Artificial Intelligence, a minimum bachelor's degree grade of 110/110 automatically waives the requirement of having 30 ECTS in Computer Science/Engineering.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_gioca_course-structure-diagram_piano_2025_6795_000_000_2025.md",
+      "corsi_unibo_it_2cycle_artificial-intelligence_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mh_014",
+    "category": "multi_hop",
+    "question": "An international applicant is admitted to the Artificial Intelligence programme but does not have adequate knowledge of the Italian language. Once enrolled, which specific mandatory course must they ensure is included in their study plan?",
+    "answer": "They must include the mandatory learning activity 'B8710 ITALIANO DI BASE PER LE PROFESSIONI TECNOLOGICHE' in their study plan. This is a strict requirement for foreign students lacking adequate Italian knowledge.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_artificial-intelligence_how-to-enrol.md",
+      "corsi_unibo_it_2cycle_artificial-intelligence_course-structure-diagram_piano_2025_6700_000_000_2025.md"
+    ]
+  },
+  {
+    "id": "mt_015",
+    "category": "multi_topic",
+    "question": "Can I request an extension of my study period if I am enrolled in a first-cycle degree programme, and which degree programme is Stefano Lodi's course associated with?",
+    "answer": "Yes, for first-cycle degree programmes, you can extend your study period, spreading the required 180 credits over 6 years instead of 3. Stefano Lodi's course is associated with the Second cycle degree programme (LM) in Statistical Sciences.",
+    "source_file": [
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_extension-of-study-period.md",
+      "www_unibo_it_sitoweb_stefano_lodi_teachings.md"
+    ]
+  },
+  {
+    "id": "mh_015",
+    "category": "multi_hop",
+    "question": "A student enrolled in the 2-year GIOCA Master's programme opts for the extended study period. Over their entire extended timeframe, how many total ECTS will they earn upon completing both their mandatory Internship and Final Examination?",
+    "answer": "They will earn a total of 27 ECTS. The extended study period only stretches the timeframe to 3 or 4 years without changing the credit value, so the Internship remains worth 12 ECTS and the Final Examination 15 ECTS.",
+    "source_file": [
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_extension-of-study-period.md",
+      "corsi_unibo_it_2cycle_gioca_course-structure-diagram_piano_2025_6795_000_000_2025.md"
+    ]
+  },
+  {
+    "id": "mt_016",
+    "category": "multi_topic",
+    "question": "What eligible Bachelor's degree class is directly accepted for Digital Humanities (e.g., L-1), and when are the remedial classes scheduled for Aerospace Engineering?",
+    "answer": "For Digital Humanities, L-1 (Cultural Heritage) is one of the eligible Bachelor's degree classes obtained in Italy. For Aerospace Engineering, remedial classes are scheduled for December 21st and 22nd, 2026.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_DigitalHumanitiesKnowledge_how-to-enrol.md",
+      "corsi_unibo_it_2cycle_AerospaceEngineering_teaching-calendar.md"
+    ]
+  },
+  {
+    "id": "mh_016",
+    "category": "multi_hop",
+    "question": "A student transferring from another university wants to enrol in the Digital Humanities programme. They hold an Italian first cycle degree in L-3 Visual Arts. If they want to get their previous exams recognized upon transfer, what form must they deliver?",
+    "answer": "Because their L-3 degree meets the admission requirement for Digital Humanities, they can proceed to transfer. To recognize previous exams, they must submit the 'credit recognition form' (with a €16 stamp duty) to the Student Administration Office.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_DigitalHumanitiesKnowledge_how-to-enrol.md",
+      "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_transferring-to-the-university-of-bologna_transferring-to-the-university-of-bologna.md"
+    ]
+  },
+  {
+    "id": "mt_017",
+    "category": "multi_topic",
+    "question": "What is the minimum number of ECTS a Bachelor's degree must have for GIOCA admission, and what is the very first step to transfer to the University of Bologna?",
+    "answer": "For GIOCA admission, candidates must hold a Bachelor's degree comprising at least 180 ECTS. The first step to transfer to the University of Bologna is to choose a degree programme and check its access requirements and methods.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_gioca_how-to-enrol.md",
+      "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_transferring-to-the-university-of-bologna_transferring-to-the-university-of-bologna.md"
+    ]
+  },
+  {
+    "id": "mh_017",
+    "category": "multi_hop",
+    "question": "An Aerospace Engineering student is currently on an extended study period. In the academic year 2026/2027, they plan to take an exam on June 2nd, 2027. Will this exam take place as normal?",
+    "answer": "No, the exam will not take place. June 2nd, 2027 is an official holiday, and the teaching calendar states there are no lessons or exams on holidays, which applies regardless of the student's extended study period status.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_AerospaceEngineering_teaching-calendar.md",
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_extension-of-study-period.md"
+    ]
+  },
+  {
+    "id": "mt_018",
+    "category": "multi_topic",
+    "question": "What is the grant amount for the Vulcanus in Japan programme, and how many ECTS is the GIOCA mandatory internship worth?",
+    "answer": "The grant for the Vulcanus in Japan programme is 1,900,000 Yen. The GIOCA mandatory internship is worth 13 ECTS.",
+    "source_file": [
+      "www_unibo_it_en_study_incoming-outgoing-international-mobility_internship-abroad_vulcanus-in-giappone-programme.md",
+      "corsi_unibo_it_2cycle_gioca_Internships.md"
+    ]
+  },
+  {
+    "id": "mh_018",
+    "category": "multi_hop",
+    "question": "An EU student is enrolled in the Artificial Intelligence Master's degree at Unibo. Based on their field of study, are they theoretically eligible to apply for the Vulcanus in Japan programme?",
+    "answer": "Yes, they are eligible. The Vulcanus programme requires students to be from technical or scientific faculties (such as Computing, Engineering, etc.), and Artificial Intelligence falls precisely under these categories (Computer Science/Engineering).",
+    "source_file": [
+      "www_unibo_it_en_study_incoming-outgoing-international-mobility_internship-abroad_vulcanus-in-giappone-programme.md",
+      "corsi_unibo_it_2cycle_artificial-intelligence_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mt_019",
+    "category": "multi_topic",
+    "question": "Which organizations offer 12-month paid traineeships under the Pan European Seal Programme, and how many credits do Artificial Intelligence students get for a final examination internship?",
+    "answer": "The EPO (European Patent Office) and EUIPO offer 12-month paid traineeships under the Pan European Seal Programme. Artificial Intelligence students receive 18 credits for the final examination internship.",
+    "source_file": [
+      "www_unibo_it_en_international_internship-abroad_internship-abroad.md",
+      "corsi_unibo_it_2cycle_artificial-intelligence_internships.md"
+    ]
+  },
+  {
+    "id": "mh_019",
+    "category": "multi_hop",
+    "question": "A GIOCA student finishes their internship and uploads the attendance sheet on Studenti Online. How many working days will it approximately take for the Academic Tutor to register it after the internship office validates the sheet?",
+    "answer": "It takes approximately 6/7 working days for the internship office to validate the attendance sheet and for the academic tutor to consequently register the internship.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_gioca_Internships.md"
+    ]
+  },
+  {
+    "id": "mt_020",
+    "category": "multi_topic",
+    "question": "What is the email address of the Artificial Intelligence internship office, and how many seats are available for EU citizens in the Legal Studies programme?",
+    "answer": "The email for the AI internship office is ingarc.tirocini.bo@unibo.it. There are 75 seats available for Italian, EU, and equivalent citizens in the Legal Studies programme.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_artificial-intelligence_internships.md",
+      "corsi_unibo_it_2cycle_legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mh_020",
+    "category": "multi_hop",
+    "question": "An Artificial Intelligence student completes the 'Machine Learning' course and an 'Internship for preparation for the final examination'. Based on the AI curriculum and internship rules, how many total ECTS does this amount to?",
+    "answer": "It amounts to 27 ECTS. The 'Machine Learning' course is worth 9 ECTS and the 'Internship for preparation for the final examination' is worth 18 credits.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_artificial-intelligence_course-structure-diagram_piano_2025_6700_000_000_2025.md",
+      "corsi_unibo_it_2cycle_artificial-intelligence_internships.md"
+    ]
+  },
+  {
+    "id": "mt_021",
+    "category": "multi_topic",
+    "question": "Which type of degree programmes require a Practical Evaluation Internship (TPV), and when do the Christmas holidays start for Aerospace Engineering students?",
+    "answer": "A Practical Evaluation Internship (TPV) is only foreseen in vocational degree programmes and degrees related to certain professions like Pharmacy, Psychology, etc.. For Aerospace Engineering, the Christmas holidays start on December 23, 2026.",
+    "source_file": [
+      "www_unibo_it_en_services-and-opportunities_internships-and-job-placement_internships_training-and-guidance-internships.md",
+      "corsi_unibo_it_2cycle_AerospaceEngineering_teaching-calendar.md"
+    ]
+  },
+  {
+    "id": "mh_021",
+    "category": "multi_hop",
+    "question": "A GIOCA student extended their study period, meaning their master's degree will now take 3 years. They are currently in their third year. Are they allowed to carry out the mandatory internship now, and how many hours must they work?",
+    "answer": "Yes, they can. The GIOCA internship is mandatory \"during the second year from March onwards\", which means any time after March of the second year, including a third extended year. They must work for 325 hours.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_gioca_Internships.md",
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_extension-of-study-period.md"
+    ]
+  },
+  {
+    "id": "mt_022",
+    "category": "multi_topic",
+    "question": "Which nationalities are eligible for the Vulcanus in Japan programme, and is an L-3 bachelor's degree accepted for Digital Humanities?",
+    "answer": "Only European Union citizens are eligible for the Vulcanus in Japan programme. Yes, an L-3 (Visual Arts, Music, Performing Arts) degree is accepted for admission to Digital Humanities.",
+    "source_file": [
+      "www_unibo_it_en_study_incoming-outgoing-international-mobility_internship-abroad_vulcanus-in-giappone-programme.md",
+      "corsi_unibo_it_2cycle_DigitalHumanitiesKnowledge_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mh_022",
+    "category": "multi_hop",
+    "question": "A student transferred to the University of Bologna and is now studying at the Ravenna Campus. If they need to contact their local internship helpdesk by email, which specific address should they use?",
+    "answer": "They should use campusravenna.tirocini@unibo.it, which is the contact email for the Ravenna Campus internship office.",
+    "source_file": [
+      "www_unibo_it_en_services-and-opportunities_internships-and-job-placement_internships_training-and-guidance-internships.md"
+    ]
+  },
+  {
+    "id": "mt_023",
+    "category": "multi_topic",
+    "question": "When can GIOCA students start their mandatory internship, and what specific mandatory course must foreign AI students take if they lack Italian language knowledge?",
+    "answer": "GIOCA students can start their mandatory internship during the second year from March onwards. Foreign AI students lacking Italian knowledge must take the learning activity 'B8710 ITALIANO DI BASE PER LE PROFESSIONI TECNOLOGICHE'.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_gioca_Internships.md",
+      "corsi_unibo_it_2cycle_artificial-intelligence_course-structure-diagram_piano_2025_6700_000_000_2025.md"
+    ]
+  },
+  {
+    "id": "mh_023",
+    "category": "multi_hop",
+    "question": "A student is enrolled in the specific degree programme associated with Roberto Amadini's 'Programming' course. Is this student studying in a first-cycle or second-cycle programme, and can they request a study period extension to spread their credits over 6 years?",
+    "answer": "The student is studying in a First cycle degree programme (Information Science for Management). Yes, students in first-cycle programmes can request an extension of their study period to spread the required 180 credits over 6 years instead of 3.",
+    "source_file": [
+      "www_unibo_it_sitoweb_roberto_amadini_teachings.md",
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_extension-of-study-period.md"
+    ]
+  },
+  {
+    "id": "mt_024",
+    "category": "multi_topic",
+    "question": "How many credits do AI students receive for an internship abroad for the final examination, and in what language is the Legal Studies Phase 2 interview conducted?",
+    "answer": "AI students receive 18 credits for an internship abroad for preparation for the final examination. The Legal Studies Phase 2 interview is conducted in English.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_artificial-intelligence_internships.md",
+      "corsi_unibo_it_2cycle_legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mh_024",
+    "category": "multi_hop",
+    "question": "An EU student received the Vulcanus in Japan grant. If they decide to use part of this grant to pay for the stamp duty required for a credit recognition form to transfer to Unibo, how much in Euros will they spend on that specific stamp duty?",
+    "answer": "They will spend €16 on the stamp duty for the credit recognition form. (While the Vulcanus grant is 1,900,000 Yen, the administrative fee remains €16).",
+    "source_file": [
+      "www_unibo_it_en_study_incoming-outgoing-international-mobility_internship-abroad_vulcanus-in-giappone-programme.md",
+      "www_unibo_it_en_teaching_enrolment-transfer-and-final-examination_transferring-to-the-university-of-bologna_transferring-to-the-university-of-bologna.md"
+    ]
+  },
+  {
+    "id": "mt_025",
+    "category": "multi_topic",
+    "question": "What does the acronym TPV stand for in the context of Unibo internships, and when are the remedial classes scheduled for Aerospace Engineering?",
+    "answer": "TPV stands for Practical Evaluation Internship. The remedial classes for Aerospace Engineering are scheduled for December 21st and 22nd, 2026.",
+    "source_file": [
+      "www_unibo_it_en_services-and-opportunities_internships-and-job-placement_internships_training-and-guidance-internships.md",
+      "corsi_unibo_it_2cycle_AerospaceEngineering_teaching-calendar.md"
+    ]
+  },
+  {
+    "id": "mh_025",
+    "category": "multi_hop",
+    "question": "A student completes a 325-hour internship at a cultural organization for the GIOCA programme. Once the internship office validates the attendance sheet, what are the possible titles of the learning activity and how many credits will be registered by the academic tutor?",
+    "answer": "The activity will be registered as either 'Internship Abroad for Preparation for the Final Examination' (code B5715) or 'Internship for Preparation for the Final Examination' (code B5714), and it will be worth 13 ECTS/credits.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_gioca_Internships.md"
+    ]
+  },
+  {
+    "id": "mt_026",
+    "category": "multi_topic",
+    "question": "What is the telephone number for the internship helpdesk at the Forlì Campus, and does the Digital Humanities programme require a B2 English certificate?",
+    "answer": "The telephone number for the Forlì Campus internship helpdesk is +39 0543 374135. Yes, the Digital Humanities programme requires a B2 level of English proficiency.",
+    "source_file": [
+      "www_unibo_it_en_services-and-opportunities_internships-and-job-placement_internships_training-and-guidance-internships.md",
+      "corsi_unibo_it_2cycle_DigitalHumanitiesKnowledge_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mh_026",
+    "category": "multi_hop",
+    "question": "An AI student wants to enrol in the mandatory course taught by Stefano Lodi. Do they have to travel to the Rimini Campus or the Bologna Campus for the lessons, and when do these lessons end?",
+    "answer": "They must travel to the Bologna Campus, and the lessons end on October 21, 2025. (Stefano Lodi's 'Systems and Algorithms for Data Science' is held on the Bologna Campus).",
+    "source_file": [
+      "www_unibo_it_sitoweb_stefano_lodi_teachings.md"
+    ]
+  },
+  {
+    "id": "mt_027",
+    "category": "multi_topic",
+    "question": "In what months does the Vulcanus in Japan programme begin and end, and on what date does Roberto Amadini's teaching period conclude?",
+    "answer": "The Vulcanus in Japan programme begins in September and ends in August of the following year. Roberto Amadini's teaching period concludes on October 23, 2025.",
+    "source_file": [
+      "www_unibo_it_en_study_incoming-outgoing-international-mobility_internship-abroad_vulcanus-in-giappone-programme.md",
+      "www_unibo_it_sitoweb_roberto_amadini_teachings.md"
+    ]
+  },
+  {
+    "id": "mh_027",
+    "category": "multi_hop",
+    "question": "A non-EU student residing abroad is admitted to the Legal Studies programme at Unibo. Are they eligible to apply for the Vulcanus in Japan internship programme?",
+    "answer": "No, they are not eligible. The Vulcanus in Japan programme strictly requires candidates to be European Union citizens, which a non-EU student does not meet, regardless of their enrollment at Unibo.",
+    "source_file": [
+      "www_unibo_it_en_study_incoming-outgoing-international-mobility_internship-abroad_vulcanus-in-giappone-programme.md",
+      "corsi_unibo_it_2cycle_legal-studies_how-to-enrol.md"
+    ]
+  },
+  {
+    "id": "mt_028",
+    "category": "multi_topic",
+    "question": "What is the stamp duty fee to repeat a graduation online application for Artificial Intelligence, and within how many days of arriving in Italy must a non-EU citizen apply for a residence permit?",
+    "answer": "The fee to repeat the online graduation application is €16.00. A non-EU citizen must apply for a residence permit within 8 days of arriving in Italy.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_artificial-intelligence_final-examination.md",
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_residence-permit_residence-permit.md"
+    ]
+  },
+  {
+    "id": "mt_029",
+    "category": "multi_topic",
+    "question": "Who assesses the student's performance during the Computer Science Engineering graduation discussion, and what does the acronym ISEE stand for in the context of tuition fees?",
+    "answer": "A Board assesses the student's performance during the discussion, using their curriculum as a reference. ISEE stands for Equivalent Economic Situation Indicator.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_ComputerScienceEngineering_final-examination.md",
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_tuition-fees-and-exemptions_ISEE-and-other-documentation-for-tuition-fee-exemptions.md"
+    ]
+  },
+  {
+    "id": "mt_030",
+    "category": "multi_topic",
+    "question": "What email address should professors use to contact the Guarantee of Originality service, and what is the mandatory questionnaire that Automation Engineering students must compile to be admitted to graduation?",
+    "answer": "Professors should use the email antiplagio@unibo.it. Automation Engineering students must compile the AlmaLaurea questionnaire online.",
+    "source_file": [
+      "www_unibo_it_en_study_guide-to-choosing-your-programme_essential-guide-to-the-study-path_final-examination-and-guarantee-of-originality_guarantee-of-originality.md",
+      "corsi_unibo_it_2cycle_AutomationEngineering_final-examination.md"
+    ]
+  },
+  {
+    "id": "mt_031",
+    "category": "multi_topic",
+    "question": "What website must you register on to request the DID for a job search permit, and where are the final dissertations and graduation ceremonies for Artificial Intelligence held?",
+    "answer": "You must register on the 'Lavoro x te' website. For Artificial Intelligence, final dissertations and graduation ceremonies are held in person.",
+    "source_file": [
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_residence-permit_frequently-asked-questions-about-residence-permits.md",
+      "corsi_unibo_it_2cycle_artificial-intelligence_final-examination.md"
+    ]
+  },
+  {
+    "id": "mt_032",
+    "category": "multi_topic",
+    "question": "What are the direct access office hours (without appointment) for the Student Tuition Fees Virtual Help Desk, and what is the email address for the Rimini International Desk?",
+    "answer": "The direct access office hours are Mondays and Tuesdays from 9:00 to 11:30. The email for the Rimini International Desk is campusrimini.internationaldesk@unibo.it.",
+    "source_file": [
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_tuition-fees-and-exemptions_fees-and-exemptions-amounts-deadlines.md",
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_residence-permit_residence-permit.md"
+    ]
+  },
+  {
+    "id": "mt_033",
+    "category": "multi_topic",
+    "question": "Can the examination board for Computer Science Engineering ask in-depth questions during the discussion, and what is the phone number for students to contact the Guarantee of Originality help desk?",
+    "answer": "Yes, the Commission may ask in-depth questions on methods, results, and developments of the work. The student phone number for the Guarantee of Originality help desk is +39 051 20 80301.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_ComputerScienceEngineering_final-examination.md",
+      "www_unibo_it_en_study_guide-to-choosing-your-programme_essential-guide-to-the-study-path_final-examination-and-guarantee-of-originality_guarantee-of-originality.md"
+    ]
+  },
+  {
+    "id": "mt_034",
+    "category": "multi_topic",
+    "question": "How much does the first graduation application cost in stamp duty for Automation Engineering, and what documents must you provide to prove your living expenses for a job search permit?",
+    "answer": "The graduation application requires a payment of €32.00 in stamp duty. For a job search permit, you must provide a copy of the documents proving you have the funds needed to cover your living expenses in Italy.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_AutomationEngineering_final-examination.md",
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_residence-permit_frequently-asked-questions-about-residence-permits.md"
+    ]
+  },
+  {
+    "id": "mt_035",
+    "category": "multi_topic",
+    "question": "In the progressive fee calculation system, how is the reference year determined, and what is the primary objective of the Guarantee of originality service?",
+    "answer": "The reference year is calculated starting with the academic year in which you first enrolled at the university. The primary objective of the Guarantee of originality service is to assist professors in verifying the originality of the documents produced for the final examination.",
+    "source_file": [
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_tuition-fees-and-exemptions_fees-and-exemptions-amounts-deadlines.md",
+      "www_unibo_it_en_study_guide-to-choosing-your-programme_essential-guide-to-the-study-path_final-examination-and-guarantee-of-originality_guarantee-of-originality.md"
+    ]
+  },
+  {
+    "id": "mh_028",
+    "category": "multi_hop",
+    "question": "A non-EU student living in Rimini needs help with both their residence permit and their tuition fees. If they want to use the Virtual Help Desks for both the International Desk in Rimini and the Tuition Fees office on a Wednesday morning at 10:30 AM, are both virtual desks open at that time?",
+    "answer": "Yes, both are open. The Rimini International Desk's Virtual Help Desk is open on Wednesdays from 10:00 to 12:00, and the Tuition Fees Virtual Help Desk (appointments only) is also open on Wednesdays from 9:00 to 12:00.",
+    "source_file": [
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_residence-permit_residence-permit.md",
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_tuition-fees-and-exemptions_fees-and-exemptions-amounts-deadlines.md"
+    ]
+  },
+  {
+    "id": "mh_029",
+    "category": "multi_hop",
+    "question": "An AI student is finalizing their thesis. The supervising professor uses the University's Guarantee of Originality service and finds the plagiarism threshold is exceeded. Will the student be immediately disqualified from graduating, or what is the standard procedure?",
+    "answer": "The student is not immediately disqualified. The professor will inform the student of the anomalies and guide them in making appropriate corrections. The student must follow these instructions to be allowed to present their dissertation.",
+    "source_file": [
+      "www_unibo_it_en_study_guide-to-choosing-your-programme_essential-guide-to-the-study-path_final-examination-and-guarantee-of-originality_guarantee-of-originality.md"
+    ]
+  },
+  {
+    "id": "mh_030",
+    "category": "multi_hop",
+    "question": "An Automation Engineering student applies for graduation online on Studenti Online but fails to graduate in that academic year. The next year, they repeat the online application. Do they have to pay the initial €32.00 stamp duty again?",
+    "answer": "No, they do not pay the whole graduation fee again, but they must pay a duty stamp value of €16.00 for the repeated application.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_AutomationEngineering_final-examination.md"
+    ]
+  },
+  {
+    "id": "mh_031",
+    "category": "multi_hop",
+    "question": "A non-EU student with a type D student visa arrives in Italy to start a Computer Science Engineering degree. They want to apply for a residence permit but haven't paid their first tuition fee instalment yet. Can they obtain the certificate of enrolment to attach to their residence permit application?",
+    "answer": "No, they cannot. To request the certificate of enrolment, the student must have already paid the first fee instalment and have all the necessary documents to complete their enrolment.",
+    "source_file": [
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_residence-permit_residence-permit.md"
+    ]
+  },
+  {
+    "id": "mh_032",
+    "category": "multi_hop",
+    "question": "A graduating student wants to stay in Italy for a job search. They have applied for residency in their Municipality, obtained an SPID account, and registered on the 'Lavoro x te' website. What is the specific name of the declaration they must now request online to proceed?",
+    "answer": "They must request the 'Dichiarazione di immediata disponibilità al lavoro (DID)' (Declaration of immediate availability for work).",
+    "source_file": [
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_residence-permit_frequently-asked-questions-about-residence-permits.md"
+    ]
+  },
+  {
+    "id": "mh_033",
+    "category": "multi_hop",
+    "question": "An Italian student wants to submit an ISEE certificate to get a tuition fee exemption. If they need to contact the Student Administration Office via the Virtual Help Desk without booking an appointment, what days and times are available?",
+    "answer": "For direct access without an appointment, the Virtual Help Desk for Tuition fees is open on Mondays and Tuesdays from 9:00 to 11:30.",
+    "source_file": [
+      "www_unibo_it_en_study_enrolment-fees-and-other-procedures_degree-programmes_tuition-fees-and-exemptions_ISEE-and-other-documentation-for-tuition-fee-exemptions.md"
+    ]
+  },
+  {
+    "id": "mh_034",
+    "category": "multi_hop",
+    "question": "A student completes their final dissertation and needs administrative help from the Guarantee of Originality Help Desk. If they try to call the student telephone number at 1:30 PM (13:30) on a Thursday, will the office be open?",
+    "answer": "No, the office will be closed. The office hours for students are Monday to Friday from 10:00 to 13:00 and from 14:00 to 17:00.",
+    "source_file": [
+      "www_unibo_it_en_study_guide-to-choosing-your-programme_essential-guide-to-the-study-path_final-examination-and-guarantee-of-originality_guarantee-of-originality.md"
+    ]
+  },
+  {
+    "id": "mh_035",
+    "category": "multi_hop",
+    "question": "A Computer Science Engineering student submits their graduation application. They have paid all fees and uploaded the dissertation, but they haven't compiled the AlmaLaurea questionnaire. Do they meet all the admission requirements to graduate?",
+    "answer": "No. Compiling the AlmaLaurea questionnaire online is a mandatory admission requirement to graduate.",
+    "source_file": [
+      "corsi_unibo_it_2cycle_ComputerScienceEngineering_final-examination.md"
+    ]
+  }
+]
